@@ -5,3 +5,5 @@ edition = "2021"
 
 [dependencies]
 native-dialog = "0.7.0"
+rand = "0.8"
+winapi = "0.3"
